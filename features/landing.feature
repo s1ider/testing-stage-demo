@@ -10,5 +10,5 @@ Feature: Landing page
     Examples:
         | option | price |
         | 1      | 2150  |
-        | 2      | 2150  |
+        | 2      | 2250  |
         | 3      | 3700  |
